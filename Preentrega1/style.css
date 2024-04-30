@@ -1,0 +1,103 @@
+
+
+.body{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color:black ;
+}
+
+
+#nav{
+    background-color:dark;
+    color: #ffffff;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    align-content: center;
+}
+#btsesion{
+    background-color: black;
+    border-color: black;
+}
+
+#btbuscar{
+    background-color: black;
+    border-color: black;
+}
+.foto{
+    background-image: url(img/enseña-a-tu-hijo-a-ver-la-televisión.jpg);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white ;
+    font-size: 10px;
+}
+#registro{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #717F8B;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+}
+#lomasvisto{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0%;
+    
+}
+.container{
+    display: flex;  
+    align-items: center;  
+    justify-content: center; 
+    min-height: 100vh;  
+  }
+#carouselExampleIndicators{
+    width: 300px;
+    height: 400px;
+}
+#home{
+    justify-content: center;
+}
+
+#sesion{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #717F8B;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px; 
+}
+#buscador{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #717F8B;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+  }   
+
+
+
